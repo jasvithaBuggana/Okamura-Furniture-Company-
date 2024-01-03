@@ -1,4 +1,4 @@
-# Okamura-Furniture-Company- Production Optimization Project
+## Okamura Furniture Company- Production Optimization Project
 
 ## Overview
 
