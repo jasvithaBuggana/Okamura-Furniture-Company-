@@ -32,13 +32,13 @@ The goal is to analyze the production quantity of different products, namely Cha
 Based on the observations, we can suggest considering the use of wood instead of melamine for certain products, accompanied by a modest reduction in the selling price. This strategic shift aims to achieve a balance between cost efficiency and maintaining product quality.
 
 ## Reference Links
-•	https://www.okamura.com/de_eu/investor_relations/pdf/financial_reports_bm/2021_11_08_1_e.pdf - Problem Statement and Organizational information.
-•	https://pdf.archiexpo.com/pdf/okamura/risefit/56536-107089.html - Categories of products produced by Okamura corporation.
-•	https://www.back2.co.uk/okamura-folding-table-nt.html - 	Cost of conference table information.
-•	https://www.back2.co.uk/okamura-portone-office-chair.html - Cost of chair Portone information.
-•	https://www.back2.co.uk/okamura-portone-office-chair.html  - Cost of Work-Pods Drape information.
-•	https://sites.google.com/site/automaticdeskchair/hardware-implementation/electrical-hardware - Manufacturing time and process needed for chair preparation.
-•	https://www.camirafabrics.com/us/contract/fabrics/oceanic - Ocean recycled fabric information.
+ - https://www.okamura.com/de_eu/investor_relations/pdf/financial_reports_bm/2021_11_08_1_e.pdf - Problem Statement and Organizational information.
+ - https://pdf.archiexpo.com/pdf/okamura/risefit/56536-107089.html - Categories of products produced by Okamura corporation.
+ - https://www.back2.co.uk/okamura-folding-table-nt.html - 	Cost of conference table information.
+ - https://www.back2.co.uk/okamura-portone-office-chair.html - Cost of chair Portone information.
+ - https://www.back2.co.uk/okamura-portone-office-chair.html  - Cost of Work-Pods Drape information.
+ - https://sites.google.com/site/automaticdeskchair/hardware-implementation/electrical-hardware - Manufacturing time and process needed for chair preparation.
+ - https://www.camirafabrics.com/us/contract/fabrics/oceanic - Ocean recycled fabric information.
 
 ## Acknowledgments
 
