@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on collecting and analyzing production quantity data for Okamura Furniture Company, specifically targeting the optimization of overall profits from a new production warehouse at the Tsukuba Plant over the next two quarters.
+This project focuses on collecting and analyzing production quantity data for Okamura Furniture Company, specifically targeting the optimization of overall profits from a new production warehouse at the Tsukuba Plant over the next two quarters using Solver in Microsoft excel.
 
 ## Problem Statement
 
